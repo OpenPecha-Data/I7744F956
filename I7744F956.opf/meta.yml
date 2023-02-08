@@ -1,0 +1,16 @@
+id: I7744F956
+default_language: sa
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 14:55:07.758893
+last_modified: 2023-02-08 14:55:07.759118
+source_metadata:
+  title: Bhaiṣajyagurupūrvapraṇidhānasūtra
+  language: sa
+bases:
+  7B43:
+    base_file: 7B43.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
